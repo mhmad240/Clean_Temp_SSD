@@ -10,8 +10,8 @@
 **أداة قوية لتنظيف وتحسين أداء نظام Windows**  
 *Clean and optimize your Windows system with one click*
 
-[التنزيل المباشر](https://github.com/mhmad240/Clean-Temp-SSD-Tool/releases) • 
-[الإبلاغ عن مشكلة](https://github.com/mhmad240/Clean-Temp-SSD-Tool/issues) • 
+[التنزيل المباشر][https://github.com/mhmad240/Clean_Temp_SSD/releases/download/v1.0/Clean_Temp_SSD_v1.0.exe]• 
+[الإبلاغ عن مشكلة](https://github.com/mhmad240/Clean_Temp_SSD/issues) • 
 [التواصل](https://t.me/mhmad240)
 
 </div>
